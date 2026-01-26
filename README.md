@@ -2,6 +2,20 @@
 ## FPGA-based Generator Architecture with AXI-LITE Control
 
 ---
+## Team Information
+
+チーム名：未定  
+学校名：千葉大学院　融合理工学府　基幹工学専攻　伊藤・下馬場・王研究室
+住所：〒263-8522 千葉県千葉市稲毛区弥生町1-33 千葉大学 西千葉キャンパス 工学系総合研究棟2 9F   
+
+## Team member
+
+|学年|氏名|
+|:---|:---|
+|M1|藤間 裕大|
+|M1|美谷 佳寛|
+|M1|小野 佳祐|
+|M1|土居 遼太郎|
 
 ## Overview
 
