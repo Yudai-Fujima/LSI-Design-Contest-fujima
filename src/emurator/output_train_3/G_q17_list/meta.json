@@ -1,0 +1,42 @@
+{
+  "net0": {
+    "shape": [
+      100,
+      512,
+      4,
+      4
+    ],
+    "json": "net0_weight_q17_list.json",
+    "txt": "net0_weight_q17_list.txt"
+  },
+  "net1": {
+    "shape": [
+      512,
+      256,
+      4,
+      4
+    ],
+    "json": "net1_weight_q17_list.json",
+    "txt": "net1_weight_q17_list.txt"
+  },
+  "net2": {
+    "shape": [
+      256,
+      128,
+      4,
+      4
+    ],
+    "json": "net2_weight_q17_list.json",
+    "txt": "net2_weight_q17_list.txt"
+  },
+  "net3": {
+    "shape": [
+      128,
+      1,
+      4,
+      4
+    ],
+    "json": "net3_weight_q17_list.json",
+    "txt": "net3_weight_q17_list.txt"
+  }
+}
