@@ -61,9 +61,6 @@ AXI-LITE は ARM が策定したバス規格であり、
 
 AXI-LITE を通じた制御は、以下のレジスタマップに基づいて行われる。
 
-<img src="figure/axi_regmap.png" width="80%">
-<p align="center">Fig. 3 AXI-LITE register map</p>
-
 ### slv_reg0（制御レジスタ）
 
 | bit | 内容 |
@@ -104,9 +101,6 @@ PS 側からの制御フローを示す。
 
 本設計では、用途ごとに FIFO を分離している。
 
-<img src="figure/fifo.png" width="80%">
-<p align="center">Fig. 4 FIFO structure</p>
-
 - FIFO-A：入力データ  
 - FIFO-C：重みデータ  
 - FIFO-B：出力データ  
@@ -137,7 +131,7 @@ AXI-LITE 通信に適した形で PS 側に送信する。
 
 ## Generator Architecture
 
-<img src="figure/generator.png" width="100%">
+<img src="figure/image_top_module_new.png" width="100%">
 <p align="center">Fig. 6 Generator internal architecture</p>
 
 Generator は本設計の計算中核であり、  
